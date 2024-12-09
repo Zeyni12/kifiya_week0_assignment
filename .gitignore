@@ -1,0 +1,7 @@
+.gitignore
+.github/
+.streamlit/
+.vscode/
+*.pyc
+env/ 
+data/*/*.csv
